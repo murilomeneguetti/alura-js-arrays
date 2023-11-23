@@ -67,4 +67,4 @@ function preencherMatrizEspiral(rows, cols) {
   // Exemplo: criar uma matriz 3x3 e preenchê-la na ordem espiral
   const matrizEspiral = preencherMatrizEspiral(4, 4);
   console.log(matrizEspiral);
-  
+
