@@ -22,4 +22,4 @@ const nomesUnicos = nomes.filter((nome, indice, array) => {
     return array.indexOf(nome) === indice;
 })
 
-console.log(nomesUnicos)
+console.log(nomesUnicos);
